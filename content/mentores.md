@@ -14,6 +14,8 @@ O mentor é peça central no PoliRetribua. Trabalhamos com profissionais volunt�
 
 Os mentores são organizados em grupos chamados “cadeiras”, cada uma com um coordenador responsável pela troca de informações e pelo apoio interno.
 
+[Baixe o Manual do Mentor](/downloads/manual-do-mentor.pdf)
+
 ### O papel do mentoring
 
 - Favorecer o sentido de pertencimento ao ambiente politécnico

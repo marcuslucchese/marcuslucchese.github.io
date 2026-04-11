@@ -13,6 +13,8 @@ O PoliRetribua oferece aos alunos:
 
 Estudantes interessados podem entrar em contato para saber sobre processos seletivos e programas de bolsa. O objetivo é garantir que cada aluno tenha condições competitivas para concluir a graduação.
 
+[Baixe o Manual do Aluno](/downloads/manual-do-aluno.pdf)
+
 ### Benefícios
 
 - Rede de apoio de mentores voluntários
