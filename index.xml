@@ -1,31 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Minha ONG</title>
-    <link>https://marcuslucchese.github.io/</link>
-    <description>Recent content in Home on Minha ONG</description>
+    <title>PoliRetribua</title>
+    <link>https://poliretribua.org.br/</link>
+    <description>Recent content on PoliRetribua</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="https://marcuslucchese.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://poliretribua.org.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alunos</title>
+      <link>https://poliretribua.org.br/alunos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://poliretribua.org.br/alunos/</guid>
+      <description>&lt;p&gt;O PoliRetribua oferece aos alunos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mentoria acadêmica e de carreira&lt;/li&gt;&#xA;&lt;li&gt;Apoio na adaptação ao ambiente da Poli e à vida universitária&lt;/li&gt;&#xA;&lt;li&gt;Acompanhamento em estudos, exercícios e organização do semestre&lt;/li&gt;&#xA;&lt;li&gt;Informação sobre bolsas, editais e recursos de apoio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;como-participar&#34;&gt;Como participar&lt;/h3&gt;&#xA;&lt;p&gt;Estudantes interessados podem entrar em contato para saber sobre processos seletivos e programas de bolsa. O objetivo é garantir que cada aluno tenha condições competitivas para concluir a graduação.&lt;/p&gt;&#xA;&lt;h3 id=&#34;benefícios&#34;&gt;Benefícios&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rede de apoio de mentores voluntários&lt;/li&gt;&#xA;&lt;li&gt;Orientação personalizada para desafios acadêmicos&lt;/li&gt;&#xA;&lt;li&gt;Espaço para trocar experiências e falar sobre dificuldades&lt;/li&gt;&#xA;&lt;li&gt;Acesso a encontros, palestras e rodas de conversa&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Contato</title>
-      <link>https://marcuslucchese.github.io/contato/</link>
+      <link>https://poliretribua.org.br/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marcuslucchese.github.io/contato/</guid>
+      <guid>https://poliretribua.org.br/contato/</guid>
       <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:contato@minhaong.org&#34;&gt;contato@minhaong.org&lt;/a&gt;&#xA;ou ligue para nós!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Projetos</title>
-      <link>https://marcuslucchese.github.io/projetos/</link>
+      <title>Doe</title>
+      <link>https://poliretribua.org.br/doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marcuslucchese.github.io/projetos/</guid>
+      <guid>https://poliretribua.org.br/doe/</guid>
+      <description>&lt;p&gt;Sua doação faz a diferença para bolsas, mentorias e ações de apoio a estudantes da Poli.&lt;/p&gt;&#xA;&lt;h3 id=&#34;como-doar&#34;&gt;Como doar&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Transferência ou PIX para apoiadores do programa&lt;/li&gt;&#xA;&lt;li&gt;Doações únicas ou mensais para financiar bolsas de estudo&lt;/li&gt;&#xA;&lt;li&gt;Apoio a iniciativas de palestras, grupos de mentoria e atividades de integração&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;por-que-doar&#34;&gt;Por que doar&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ajuda diretamente jovens em situação de vulnerabilidade social e econômica&lt;/li&gt;&#xA;&lt;li&gt;Permite continuidade de projetos de mentoria e acolhimento&lt;/li&gt;&#xA;&lt;li&gt;Contribui para a permanência e sucesso acadêmico de futuras gerações&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;contato-para-doação&#34;&gt;Contato para doação&lt;/h3&gt;&#xA;&lt;p&gt;Envie uma mensagem para o email de apoio ou para o canal de comunicação do programa para receber informações sobre valores, comprovantes e prestação de contas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Institucional</title>
+      <link>https://poliretribua.org.br/institucional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://poliretribua.org.br/institucional/</guid>
+      <description>&lt;p&gt;O PoliRetribua nasceu para fortalecer a trajetória acadêmica de estudantes da Escola Politécnica da USP que ingressam por ação afirmativa e enfrentam desafios socioeconômicos.&lt;/p&gt;&#xA;&lt;h3 id=&#34;missão&#34;&gt;Missão&lt;/h3&gt;&#xA;&lt;p&gt;Apoiar e fortalecer estudantes politécnicos em situação de vulnerabilidade socioeconômica através de mentoria e bolsas, com foco na permanência até a conclusão da graduação.&lt;/p&gt;&#xA;&lt;h3 id=&#34;visão&#34;&gt;Visão&lt;/h3&gt;&#xA;&lt;p&gt;Ser referência em mentorias e oportunidades de apoio para todos os ingressantes da Poli que precisem de suporte financeiro e acadêmico.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mentores</title>
+      <link>https://poliretribua.org.br/mentores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://poliretribua.org.br/mentores/</guid>
+      <description>&lt;p&gt;O mentor é peça central no PoliRetribua. Trabalhamos com profissionais voluntários que oferecem acolhimento, orientação e inspiração aos estudantes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;perfil-do-mentor&#34;&gt;Perfil do mentor&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Egressos da Poli ou profissionais com experiência em ensino e apoio estudantil&lt;/li&gt;&#xA;&lt;li&gt;Comprometidos com a inclusão e a permanência universitária&lt;/li&gt;&#xA;&lt;li&gt;Dispostos a escutar, orientar e apoiar no planejamento acadêmico&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;organização&#34;&gt;Organização&lt;/h3&gt;&#xA;&lt;p&gt;Os mentores são organizados em grupos chamados “cadeiras”, cada uma com um coordenador responsável pela troca de informações e pelo apoio interno.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projetos</title>
+      <link>https://poliretribua.org.br/projetos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://poliretribua.org.br/projetos/</guid>
       <description>&lt;p&gt;Lista de projetos em breve.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quem Somos</title>
-      <link>https://marcuslucchese.github.io/quem-somos/</link>
+      <link>https://poliretribua.org.br/quem-somos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marcuslucchese.github.io/quem-somos/</guid>
+      <guid>https://poliretribua.org.br/quem-somos/</guid>
       <description>&lt;p&gt;Somos uma ONG dedicada a ajudar pessoas.&lt;/p&gt;</description>
     </item>
   </channel>

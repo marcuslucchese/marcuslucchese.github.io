@@ -2,16 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marcuslucchese.github.io/categories/</loc>
+    <loc>https://poliretribua.org.br/alunos/</loc>
   </url><url>
-    <loc>https://marcuslucchese.github.io/contato/</loc>
+    <loc>https://poliretribua.org.br/contato/</loc>
   </url><url>
-    <loc>https://marcuslucchese.github.io/</loc>
+    <loc>https://poliretribua.org.br/doe/</loc>
   </url><url>
-    <loc>https://marcuslucchese.github.io/projetos/</loc>
+    <loc>https://poliretribua.org.br/institucional/</loc>
   </url><url>
-    <loc>https://marcuslucchese.github.io/quem-somos/</loc>
+    <loc>https://poliretribua.org.br/mentores/</loc>
   </url><url>
-    <loc>https://marcuslucchese.github.io/tags/</loc>
+    <loc>https://poliretribua.org.br/</loc>
+  </url><url>
+    <loc>https://poliretribua.org.br/projetos/</loc>
+  </url><url>
+    <loc>https://poliretribua.org.br/quem-somos/</loc>
   </url>
 </urlset>
