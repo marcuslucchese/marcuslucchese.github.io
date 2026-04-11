@@ -7,16 +7,16 @@
   <title>PoliRetribua – PoliRetribua</title>
   <style>
     :root {
-      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       color-scheme: light;
-      --bg: #f4f7f6;
-      --surface: rgba(255,255,255,0.96);
-      --text: #10201c;
+      --bg: #F4F1EA;
+      --surface: rgba(255, 255, 255, 0.96);
+      --text: #175C4A;
       --muted: #4f615b;
-      --primary: #194039;
+      --primary: #175C4A;
       --primary-soft: #3b6748;
-      --accent: #bd2a2a;
-      --border: rgba(25, 64, 57, 0.14);
+      --accent: #CDD973;
+      --border: rgba(23, 92, 74, 0.14);
       --shadow: 0 32px 80px rgba(7, 18, 16, 0.16);
     }
 
@@ -31,8 +31,9 @@
     body {
       margin: 0;
       min-height: 100vh;
-      background: linear-gradient(180deg, #eff3f1 0%, #f8faf8 100%);
+      background: linear-gradient(180deg, #F4F1EA 0%, #f8f4ea 100%);
       color: var(--text);
+      font-family: 'Poppins', sans-serif;
     }
 
     a {
@@ -54,17 +55,34 @@
       justify-content: space-between;
       gap: 16px;
       padding: 18px 28px;
-      background: rgba(255, 255, 255, 0.92);
+      margin: 28px;
+      border-radius: 28px;
+      background: rgba(244, 241, 234, 0.95);
       backdrop-filter: blur(18px);
-      border-bottom: 1px solid rgba(25, 64, 57, 0.08);
+      border: 1px solid rgba(23, 92, 74, 0.14);
       box-shadow: 0 24px 40px rgba(7, 18, 16, 0.07);
     }
 
     .brand a {
+      display: inline-flex;
+      align-items: center;
+      gap: 14px;
+      font-family: 'Quicksand', sans-serif;
       font-size: 1.45rem;
       font-weight: 800;
       color: var(--primary);
       letter-spacing: -0.03em;
+    }
+
+    .brand img {
+     width: 220px;
+     max-width: 100%;
+     height: auto;
+     display: block;
+     border-radius: 16px;
+     background: transparent;
+     padding: 6px;
+     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
     }
 
     .site-nav {
@@ -80,7 +98,7 @@
       justify-content: center;
       padding: 12px 18px;
       border-radius: 999px;
-      background: rgba(25, 64, 57, 0.06);
+      background: rgba(23, 92, 74, 0.08);
       color: var(--primary);
       font-weight: 700;
       transition: transform 0.24s ease, background 0.24s ease, border-color 0.24s ease;
@@ -89,8 +107,128 @@
 
     .site-nav a:hover {
       transform: translateY(-1px);
-      background: rgba(189, 42, 42, 0.12);
-      border-color: rgba(25, 64, 57, 0.15);
+      background: rgba(205, 217, 115, 0.18);
+      border-color: rgba(23, 92, 74, 0.18);
+    }
+
+    .carousel {
+      position: relative;
+      overflow: hidden;
+      min-height: 420px;
+      height: min(56vh, 580px);
+      border-radius: 32px;
+      margin: 28px 28px 0;
+      background: linear-gradient(180deg, rgba(22,46,42,.18), rgba(8,24,22,.14));
+      box-shadow: 0 32px 70px rgba(7, 18, 16, 0.12);
+    }
+
+    .carousel-track {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+
+    .slide {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      transition: opacity .8s ease;
+      background-size: cover;
+      background-position: center center;
+      background-repeat: no-repeat;
+      display: grid;
+      place-items: center;
+      color: #f8fbfb;
+      text-shadow: 0 16px 30px rgba(0,0,0,.35);
+      padding: 24px;
+    }
+
+    .slide.active {
+      opacity: 1;
+      z-index: 1;
+    }
+
+    .slide::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(1, 33, 31, .45), rgba(1, 33, 31, .1) 32%, rgba(1, 33, 31, .45));
+      pointer-events: none;
+    }
+
+    .carousel-overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 2;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 32px;
+      pointer-events: none;
+    }
+
+    .carousel-overlay .hero-body {
+      width: min(100%, 980px);
+      padding: 32px;
+      border-radius: 28px;
+      background: rgba(3, 20, 15, 0.63);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 32px 90px rgba(0, 0, 0, 0.25);
+      pointer-events: auto;
+      text-align: center;
+      margin: 0 auto;
+    }
+
+    .carousel-overlay .hero-eyebrow,
+    .carousel-overlay .hero-title,
+    .carousel-overlay .hero-copy,
+    .carousel-overlay .hero-actions {
+      margin: 0 auto;
+    }
+
+    .carousel-overlay .hero-title {
+      color: #fff;
+    }
+
+    .carousel-overlay .hero-copy {
+      color: rgba(255, 255, 255, 0.9);
+    }
+
+    .carousel-overlay .button.primary,
+    .carousel-overlay .button.secondary {
+      pointer-events: auto;
+    }
+
+    .slide-label {
+      display: none;
+    }
+
+    .carousel-controls {
+      position: absolute;
+      inset: auto 24px 24px;
+      display: flex;
+      justify-content: space-between;
+      width: calc(100% - 48px);
+      z-index: 2;
+    }
+
+    .carousel-control {
+      width: 46px;
+      height: 46px;
+      border: 1px solid rgba(255,255,255,.22);
+      background: rgba(0,0,0,.28);
+      color: #fff;
+      border-radius: 999px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: transform .2s ease, background .2s ease;
+    }
+
+    .carousel-control:hover {
+      transform: translateY(-1px);
+      background: rgba(0,0,0,.42);
     }
 
     .hero {
@@ -144,6 +282,7 @@
 
     .hero-title {
       margin: 0;
+      font-family: 'Quicksand', sans-serif;
       font-size: clamp(2.8rem, 5vw, 4.8rem);
       line-height: 1.02;
       letter-spacing: -0.04em;
@@ -178,14 +317,15 @@
     }
 
     .button.primary {
-      background: linear-gradient(135deg, #194039, #3b6748);
+      background: linear-gradient(135deg, #175C4A, #3b6748);
       color: #fff;
-      box-shadow: 0 18px 40px rgba(25, 64, 57, 0.24);
+      box-shadow: 0 18px 40px rgba(23, 92, 74, 0.24);
     }
 
     .button.secondary {
-      background: rgba(255, 255, 255, 0.95);
-      color: var(--primary);
+      background: #CDD973;
+      color: #175C4A;
+      border: 1px solid rgba(23, 92, 74, 0.16);
     }
 
     .button:hover {
@@ -205,11 +345,13 @@
       background: var(--surface);
       border: 1px solid var(--border);
       box-shadow: var(--shadow);
+      position: relative;
     }
 
     .page-section h1,
     .page-section h2,
     .page-section h3 {
+      font-family: 'Quicksand', sans-serif;
       color: var(--primary);
     }
 
@@ -298,7 +440,7 @@
 <body>
   <div class="site-shell">
     <header class="site-header">
-      <div class="brand"><a href="/">PoliRetribua</a></div>
+      <div class="brand"><a href="/"><img src="/images/logo_retribua.jpg" alt="PoliRetribua"></a></div>
       <nav class="site-nav">
         <a href="/institucional/">Institucional</a>
         <a href="/alunos/">Alunos</a>
@@ -307,20 +449,28 @@
       </nav>
     </header>
 
-    <section class="hero">
-      <video class="hero-video" autoplay muted loop playsinline poster="/images/hero.jpg">
-        <source src="/videos/hero.mp4" type="video/mp4">
-      </video>
-      <div class="hero-body">
-        <div class="hero-eyebrow">Programa de apoio PoliRetribua</div>
-        <h1 class="hero-title">Mentoria, bolsas e inclusão para estudantes da Poli</h1>
-        <p class="hero-copy">
-          Uma rede de voluntários dedicada a fortalecer estudantes em situação de vulnerabilidade socioeconômica, com acompanhamento, acolhimento e oportunidades reais de permanência na universidade.
-        </p>
-        <div class="hero-actions">
-          <a class="button primary" href="/institucional/">Conheça o projeto</a>
-          <a class="button secondary" href="/doe/">Doe agora</a>
+    <section class="carousel" aria-label="Galeria de imagens">
+      <div class="carousel-track">
+        <div class="slide active" style="background-image:url('/images/carousel/slide-1.jpg');"></div>
+        <div class="slide" style="background-image:url('/images/carousel/slide-2.jpg');"></div>
+        <div class="slide" style="background-image:url('/images/carousel/slide-3.jpg');"></div>
+      </div>
+      <div class="carousel-overlay">
+        <div class="hero-body">
+          <div class="hero-eyebrow">Programa de apoio PoliRetribua</div>
+          <h1 class="hero-title">Mentoria, bolsas e inclusão para estudantes da Poli</h1>
+          <p class="hero-copy">
+            Uma rede de voluntários dedicada a fortalecer estudantes em situação de vulnerabilidade socioeconômica, com acompanhamento, acolhimento e oportunidades reais de permanência na universidade.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="/institucional/">Conheça o projeto</a>
+            <a class="button secondary" href="/doe/">Doe agora</a>
+          </div>
         </div>
+      </div>
+      <div class="carousel-controls">
+        <button class="carousel-control carousel-prev" type="button" aria-label="Slide anterior">‹</button>
+        <button class="carousel-control carousel-next" type="button" aria-label="Próximo slide">›</button>
       </div>
     </section>
 
@@ -369,5 +519,50 @@
       </ul>
     </footer>
   </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const slides = Array.from(document.querySelectorAll('.carousel .slide'));
+      if (!slides.length) return;
+
+      let current = 0;
+      const nextBtn = document.querySelector('.carousel-next');
+      const prevBtn = document.querySelector('.carousel-prev');
+      let timer = null;
+
+      const activate = index => {
+        slides.forEach((slide, idx) => {
+          slide.classList.toggle('active', idx === index);
+        });
+      };
+
+      const moveTo = index => {
+        current = (index + slides.length) % slides.length;
+        activate(current);
+      };
+
+      const nextSlide = () => moveTo(current + 1);
+      const prevSlide = () => moveTo(current - 1);
+      const resetTimer = () => {
+        if (timer) clearInterval(timer);
+        timer = setInterval(nextSlide, 5000);
+      };
+
+      if (nextBtn) {
+        nextBtn.addEventListener('click', function() {
+          nextSlide();
+          resetTimer();
+        });
+      }
+
+      if (prevBtn) {
+        prevBtn.addEventListener('click', function() {
+          prevSlide();
+          resetTimer();
+        });
+      }
+
+      resetTimer();
+    });
+  </script>
 </body>
 </html>
