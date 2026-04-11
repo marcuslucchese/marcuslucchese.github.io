@@ -1,3 +1,5 @@
-baseURL = "https://marcuslucchese.github.io/"
+baseURL = "https://poliretribua.org.br/"
 languageCode = "pt-br"
-title = "Minha ONG"
+title = "PoliRetribua"
+
+disableKinds = ["taxonomy"]
