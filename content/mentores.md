@@ -12,7 +12,13 @@ O mentor é peça central no PoliRetribua. Trabalhamos com profissionais volunt�
 
 ### Organização
 
-Os mentores são organizados em grupos chamados “cadeiras”, cada uma com um coordenador responsável pela troca de informações e pelo apoio interno.
+Os mentores são organizados orientados pela cordenação do programa, assim como reportam suas atividades a ela.
+
+Normalmente, os mentores são cadastrados e instruídos em janeiro/fevereiro e o programa de mentoria é executado de março a dezembro.
+
+Dependendo do caso, pares de mentores e alunos são formados em junho/julho.
+
+Quer ser um mentor? Preencha nosso formulário em [**Cadastro de mentores**](https://forms.gle/EE5zs7JgYK6quRet5).
 
 Baixe o [**Manual do Mentor**](/downloads/manual-do-mentor.pdf)
 

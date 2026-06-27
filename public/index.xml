@@ -1,75 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PoliRetribua</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on PoliRetribua</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Inscrições para bolsas 2026/2027</title>
-      <link>http://localhost:1313/campanhas/campanha-de-bolsas-maio-2026/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/campanhas/campanha-de-bolsas-maio-2026/</guid>
-      <description>&lt;p&gt;Durante os meses de abril e maio, realizamos as inscrições de bolsas para os alunos com mentoria do programa.&lt;/p&gt;&#xA;&lt;p&gt;Maiores detalhes dessa campanha podem ser obtidos na aba &lt;strong&gt;Alunos&lt;/strong&gt; desse site.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Saúde Mental na Jornada do Politécnico</title>
-      <link>http://localhost:1313/campanhas/saude-mental-abril-2026/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/campanhas/saude-mental-abril-2026/</guid>
-      <description>&lt;p&gt;Palestra com Octávio Bulhões, Engenheiro politécnico e psicólogo que abordou o tema da saúde mental no contexto da graduação na Escola Politécnica da USP e sua relação com alunos vulneráveis.&lt;/p&gt;&#xA;&lt;p&gt;Acesse o conteúdo da palestra: &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4EQTl9zyLBg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alunos</title>
-      <link>http://localhost:1313/alunos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alunos/</guid>
-      <description>&lt;p&gt;O PoliRetribua oferece aos alunos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mentoria acadêmica e de carreira&lt;/li&gt;&#xA;&lt;li&gt;Apoio na adaptação ao ambiente da Poli e à vida universitária&lt;/li&gt;&#xA;&lt;li&gt;Acompanhamento em estudos, exercícios e organização do semestre&lt;/li&gt;&#xA;&lt;li&gt;Informação sobre bolsas, editais e recursos de apoio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;como-participar&#34;&gt;Como participar&lt;/h3&gt;&#xA;&lt;p&gt;Estudantes interessados podem entrar em contato para saber sobre processos seletivos e programas de bolsa. O objetivo é garantir que cada aluno tenha condições competitivas para concluir a graduação.&lt;/p&gt;&#xA;&lt;p&gt;Baixe o &lt;a href=&#34;./downloads/manual-do-aluno.pdf&#34;&gt;&lt;strong&gt;Manual do Aluno&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contato</title>
-      <link>http://localhost:1313/contato/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contato/</guid>
-      <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:poli.retribua1@politecnicos.org.br&#34;&gt;poli.retribua1@politecnicos.org.br&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doe</title>
-      <link>http://localhost:1313/doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/doe/</guid>
-      <description>&lt;p&gt;Sua doação faz a diferença para bolsas, mentorias e ações de apoio a estudantes da Poli.&lt;/p&gt;&#xA;&lt;h3 id=&#34;por-que-doar&#34;&gt;Por que doar&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Somos uma ONG (OSCIP) formalmente instituída&lt;/li&gt;&#xA;&lt;li&gt;Ajuda diretamente jovens em situação de vulnerabilidade social e econômica&lt;/li&gt;&#xA;&lt;li&gt;Permite continuidade de projetos de mentoria e acolhimento para a formação de Engenheiros de alto nível&lt;/li&gt;&#xA;&lt;li&gt;Contribui para a permanência e sucesso acadêmico de futuras gerações&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;como-doar&#34;&gt;Como doar&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chave &lt;strong&gt;PIX&lt;/strong&gt; para doação direta ao programa: &lt;strong&gt;&lt;a href=&#34;mailto:poliretribua@politecnicos.org.br&#34;&gt;poliretribua@politecnicos.org.br&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Dados bancários para transferência para a Poli Alumni: &lt;strong&gt;Banco Itau, agência 0646 conta corrente 09513-3&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Doações únicas ou mensais para financiar bolsas de estudo&lt;/li&gt;&#xA;&lt;li&gt;Doações de notebooks em boas condições de uso&lt;/li&gt;&#xA;&lt;li&gt;Apoio a iniciativas de palestras, grupos de mentoria e atividades de integração&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;contato-para-doações-institucionais&#34;&gt;Contato para doações institucionais&lt;/h3&gt;&#xA;&lt;p&gt;Envie uma mensagem para o email &lt;a href=&#34;mailto:poli.retribua1@politecnicos.org.br&#34;&gt;poli.retribua1@politecnicos.org.br&lt;/a&gt; para receber informações sobre planos de doação contínua, comprovantes e prestação de contas.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Institucional</title>
-      <link>http://localhost:1313/institucional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/institucional/</guid>
-      <description>&lt;p&gt;O PoliRetribua nasceu para fortalecer a trajetória acadêmica de estudantes da Escola Politécnica da USP que ingressam por ação afirmativa e enfrentam desafios socioeconômicos.&lt;/p&gt;&#xA;&lt;h3 id=&#34;missão&#34;&gt;Missão&lt;/h3&gt;&#xA;&lt;p&gt;Apoiar e fortalecer estudantes politécnicos em situação de vulnerabilidade socioeconômica através de mentoria e bolsas, com foco na permanência até a conclusão da graduação.&lt;/p&gt;&#xA;&lt;h3 id=&#34;visão&#34;&gt;Visão&lt;/h3&gt;&#xA;&lt;p&gt;Ser referência em mentorias e oportunidades de apoio para todos os ingressantes da Poli, nos seus 2 primeiros anos, que precisem de suporte financeiro e acadêmico.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mentores</title>
-      <link>http://localhost:1313/mentores/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mentores/</guid>
-      <description>&lt;p&gt;O mentor é peça central no PoliRetribua. Trabalhamos com profissionais voluntários que oferecem acolhimento, orientação e inspiração aos estudantes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;perfil-do-mentor&#34;&gt;Perfil do mentor&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Egressos da Poli ou profissionais com experiência em ensino e apoio estudantil&lt;/li&gt;&#xA;&lt;li&gt;Comprometidos com a inclusão e a permanência universitária&lt;/li&gt;&#xA;&lt;li&gt;Dispostos a escutar, orientar e apoiar no planejamento acadêmico&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;organização&#34;&gt;Organização&lt;/h3&gt;&#xA;&lt;p&gt;Os mentores são organizados em grupos chamados “cadeiras”, cada uma com um coordenador responsável pela troca de informações e pelo apoio interno.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projetos</title>
-      <link>http://localhost:1313/projetos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projetos/</guid>
-      <description>&lt;p&gt;Lista de projetos em breve.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quem Somos</title>
-      <link>http://localhost:1313/quem-somos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/quem-somos/</guid>
-      <description>&lt;p&gt;Somos uma ONG dedicada a ajudar pessoas.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PoliRetribua</title><link>https://poliretribua.com.br/</link><description>Recent content on PoliRetribua</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://poliretribua.com.br/index.xml" rel="self" type="application/rss+xml"/><item><title>Papo de Politécnico - Aldo Michelini</title><link>https://poliretribua.com.br/campanhas/papo-de-politecnico-junho-2026/</link><pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/campanhas/papo-de-politecnico-junho-2026/</guid><description>&lt;p&gt;Palestra com Aldo Michilini, Engenheiro Politécnico que contou sua experiência de mais de 40 anos na Engenharia.&lt;/p&gt;
+&lt;p&gt;Acesse o conteúdo da palestra: &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ckDHqAugCfQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Inscrições para bolsas 2026/2027</title><link>https://poliretribua.com.br/campanhas/campanha-de-bolsas-maio-2026/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/campanhas/campanha-de-bolsas-maio-2026/</guid><description>&lt;p&gt;Durante os meses de abril e maio, realizamos as inscrições de bolsas para os alunos com mentoria do programa.&lt;/p&gt;
+&lt;p&gt;Maiores detalhes dessa campanha podem ser obtidos na aba &lt;strong&gt;Alunos&lt;/strong&gt; desse site.&lt;/p&gt;</description></item><item><title>Saúde Mental na Jornada do Politécnico</title><link>https://poliretribua.com.br/campanhas/saude-mental-abril-2026/</link><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/campanhas/saude-mental-abril-2026/</guid><description>&lt;p&gt;Palestra com Octávio Bulhões, Engenheiro politécnico e psicólogo que abordou o tema da saúde mental no contexto da graduação na Escola Politécnica da USP e sua relação com alunos vulneráveis.&lt;/p&gt;
+&lt;p&gt;Acesse o conteúdo da palestra: &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/4EQTl9zyLBg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Alunos</title><link>https://poliretribua.com.br/alunos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/alunos/</guid><description>&lt;p&gt;O PoliRetribua oferece aos alunos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentoria acadêmica e de carreira&lt;/li&gt;
+&lt;li&gt;Apoio na adaptação ao ambiente da Poli e à vida universitária&lt;/li&gt;
+&lt;li&gt;Acompanhamento em estudos, exercícios e organização do semestre&lt;/li&gt;
+&lt;li&gt;Informação sobre bolsas, editais e recursos de apoio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="como-participar"&gt;Como participar&lt;/h3&gt;
+&lt;p&gt;Estudantes interessados podem entrar em contato para saber sobre processos seletivos e programas de bolsa. O objetivo é garantir que cada aluno tenha condições competitivas para concluir a graduação.&lt;/p&gt;
+&lt;p&gt;Baixe o &lt;a href="./downloads/manual-do-aluno.pdf"&gt;&lt;strong&gt;Manual do Aluno&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Contato</title><link>https://poliretribua.com.br/contato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/contato/</guid><description>&lt;p&gt;Email: &lt;a href="mailto:poli.retribua1@politecnicos.org.br"&gt;poli.retribua1@politecnicos.org.br&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Doe</title><link>https://poliretribua.com.br/doe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/doe/</guid><description>&lt;p&gt;Sua doação faz a diferença para bolsas, mentorias e ações de apoio a estudantes da Poli.&lt;/p&gt;
+&lt;h3 id="por-que-doar"&gt;Por que doar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Somos uma ONG (OSCIP) formalmente instituída&lt;/li&gt;
+&lt;li&gt;Ajuda diretamente jovens em situação de vulnerabilidade social e econômica&lt;/li&gt;
+&lt;li&gt;Permite continuidade de projetos de mentoria e acolhimento para a formação de Engenheiros de alto nível&lt;/li&gt;
+&lt;li&gt;Contribui para a permanência e sucesso acadêmico de futuras gerações&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="como-doar"&gt;Como doar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chave &lt;strong&gt;PIX&lt;/strong&gt; para doação direta ao programa: &lt;strong&gt;&lt;a href="mailto:poliretribua@politecnicos.org.br"&gt;poliretribua@politecnicos.org.br&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Dados bancários para transferência para a Poli Alumni: &lt;strong&gt;Banco Itau, agência 0646 conta corrente 09513-3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Doações únicas ou mensais para financiar bolsas de estudo&lt;/li&gt;
+&lt;li&gt;Doações de notebooks em boas condições de uso&lt;/li&gt;
+&lt;li&gt;Apoio a iniciativas de palestras, grupos de mentoria e atividades de integração&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="contato-para-doações-institucionais"&gt;Contato para doações institucionais&lt;/h3&gt;
+&lt;p&gt;Envie uma mensagem para o email &lt;a href="mailto:poli.retribua1@politecnicos.org.br"&gt;poli.retribua1@politecnicos.org.br&lt;/a&gt; para receber informações sobre planos de doação contínua, comprovantes e prestação de contas.&lt;/p&gt;</description></item><item><title>Institucional</title><link>https://poliretribua.com.br/institucional/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/institucional/</guid><description>&lt;p&gt;O PoliRetribua nasceu para fortalecer a trajetória acadêmica de estudantes da Escola Politécnica da USP que ingressam por ação afirmativa e enfrentam desafios socioeconômicos.&lt;/p&gt;
+&lt;h3 id="missão"&gt;Missão&lt;/h3&gt;
+&lt;p&gt;Apoiar e fortalecer estudantes politécnicos em situação de vulnerabilidade socioeconômica através de mentoria e bolsas, com foco na permanência até a conclusão da graduação.&lt;/p&gt;
+&lt;h3 id="visão"&gt;Visão&lt;/h3&gt;
+&lt;p&gt;Ser referência em mentorias e oportunidades de apoio para todos os ingressantes da Poli, nos seus 2 primeiros anos, que precisem de suporte financeiro e acadêmico.&lt;/p&gt;</description></item><item><title>Mentores</title><link>https://poliretribua.com.br/mentores/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/mentores/</guid><description>&lt;p&gt;O mentor é peça central no PoliRetribua. Trabalhamos com profissionais voluntários que oferecem acolhimento, orientação e inspiração aos estudantes.&lt;/p&gt;
+&lt;h3 id="perfil-do-mentor"&gt;Perfil do mentor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Egressos da Poli ou profissionais com experiência em ensino e apoio estudantil&lt;/li&gt;
+&lt;li&gt;Comprometidos com a inclusão e a permanência universitária&lt;/li&gt;
+&lt;li&gt;Dispostos a escutar, orientar e apoiar no planejamento acadêmico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="organização"&gt;Organização&lt;/h3&gt;
+&lt;p&gt;Os mentores são organizados orientados pela cordenação do programa, assim como reportam suas atividades a ela.&lt;/p&gt;
+&lt;p&gt;Normalmente, os mentores são cadastrados e instruídos em janeiro/fevereiro e o programa de mentoria é executado de março a dezembro.&lt;/p&gt;</description></item><item><title>Projetos</title><link>https://poliretribua.com.br/projetos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/projetos/</guid><description>&lt;p&gt;Lista de projetos em breve.&lt;/p&gt;</description></item><item><title>Quem Somos</title><link>https://poliretribua.com.br/quem-somos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/quem-somos/</guid><description>&lt;p&gt;Somos uma ONG dedicada a ajudar pessoas.&lt;/p&gt;</description></item></channel></rss>

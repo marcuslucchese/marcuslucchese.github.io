@@ -1,26 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Campanhas on PoliRetribua</title>
-    <link>http://localhost:1313/campanhas/</link>
-    <description>Recent content in Campanhas on PoliRetribua</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/campanhas/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Inscrições para bolsas 2026/2027</title>
-      <link>http://localhost:1313/campanhas/campanha-de-bolsas-maio-2026/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/campanhas/campanha-de-bolsas-maio-2026/</guid>
-      <description>&lt;p&gt;Durante os meses de abril e maio, realizamos as inscrições de bolsas para os alunos com mentoria do programa.&lt;/p&gt;&#xA;&lt;p&gt;Maiores detalhes dessa campanha podem ser obtidos na aba &lt;strong&gt;Alunos&lt;/strong&gt; desse site.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Saúde Mental na Jornada do Politécnico</title>
-      <link>http://localhost:1313/campanhas/saude-mental-abril-2026/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/campanhas/saude-mental-abril-2026/</guid>
-      <description>&lt;p&gt;Palestra com Octávio Bulhões, Engenheiro politécnico e psicólogo que abordou o tema da saúde mental no contexto da graduação na Escola Politécnica da USP e sua relação com alunos vulneráveis.&lt;/p&gt;&#xA;&lt;p&gt;Acesse o conteúdo da palestra: &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4EQTl9zyLBg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Campanhas on PoliRetribua</title><link>https://poliretribua.com.br/campanhas/</link><description>Recent content in Campanhas on PoliRetribua</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://poliretribua.com.br/campanhas/index.xml" rel="self" type="application/rss+xml"/><item><title>Papo de Politécnico - Aldo Michelini</title><link>https://poliretribua.com.br/campanhas/papo-de-politecnico-junho-2026/</link><pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/campanhas/papo-de-politecnico-junho-2026/</guid><description>&lt;p&gt;Palestra com Aldo Michilini, Engenheiro Politécnico que contou sua experiência de mais de 40 anos na Engenharia.&lt;/p&gt;
+&lt;p&gt;Acesse o conteúdo da palestra: &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ckDHqAugCfQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Inscrições para bolsas 2026/2027</title><link>https://poliretribua.com.br/campanhas/campanha-de-bolsas-maio-2026/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/campanhas/campanha-de-bolsas-maio-2026/</guid><description>&lt;p&gt;Durante os meses de abril e maio, realizamos as inscrições de bolsas para os alunos com mentoria do programa.&lt;/p&gt;
+&lt;p&gt;Maiores detalhes dessa campanha podem ser obtidos na aba &lt;strong&gt;Alunos&lt;/strong&gt; desse site.&lt;/p&gt;</description></item><item><title>Saúde Mental na Jornada do Politécnico</title><link>https://poliretribua.com.br/campanhas/saude-mental-abril-2026/</link><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate><guid>https://poliretribua.com.br/campanhas/saude-mental-abril-2026/</guid><description>&lt;p&gt;Palestra com Octávio Bulhões, Engenheiro politécnico e psicólogo que abordou o tema da saúde mental no contexto da graduação na Escola Politécnica da USP e sua relação com alunos vulneráveis.&lt;/p&gt;
+&lt;p&gt;Acesse o conteúdo da palestra: &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/4EQTl9zyLBg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;</description></item></channel></rss>
